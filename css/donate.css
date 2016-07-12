@@ -1,0 +1,24 @@
+div#paypal, div#bitcoin{
+	width: 50%;
+	float: left;
+}
+
+div#bitcoin-wrapper{
+	left: 30%;
+	width: 25%;
+}
+
+div#bitcoin{
+	left:60%;
+	width: 40%;
+}
+
+div#coinbase{
+	float: left;
+	width: 20%;
+}
+
+img#qr{
+	width: 100px;
+	margin: 0 auto;
+}

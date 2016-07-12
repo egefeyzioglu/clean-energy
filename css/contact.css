@@ -1,0 +1,4 @@
+div#right, div#left{
+	float: left;
+	width: 50%;
+}
