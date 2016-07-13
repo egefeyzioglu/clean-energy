@@ -1,6 +1,7 @@
-div#right, div#left{
-	float: left;
-	width: 50%;
+div#left{
+	float: right;
+	right: 45%;
+	position: relative;
 }
 
 .nav{
